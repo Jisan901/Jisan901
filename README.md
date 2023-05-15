@@ -1,16 +1,47 @@
-### Hi there 👋
+<div style="text-align:center;">
 
-<!--
-**Jisan901/Jisan901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, Explorer 👋
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👉 warning ⚠️: ignore oldest repositories before 2023👈
+
+<br />
+</div>
+
+## About me
+
+<br />
+
+Hi, I'm a full-stack developer, exploring web technologies is my hobby 
+<br />
+### skills
+
+<br />
+
+#### languages 
+<br />
+
+[![My Skills](https://skillicons.dev/icons?i=python,js)](https://skillicons.dev)
+
+
+#### web source
+<br />
+
+[![My Skills](https://skillicons.dev/icons?i=html,react,css,js,nodejs,tailwind,flask,mongodb&perline=3)](https://skillicons.dev)
+
+<br />
+
+## my github state
+
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisan901&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisan901&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+## some useful
+
+| repo | Link |
+| ------ | ------ |
+| ReBoot | [ReBoot](github.com/Jisan901/reboot) |
