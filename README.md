@@ -22,7 +22,7 @@ Hi, I'm a full-stack developer, exploring web technologies is my hobby
 [![My Skills](https://skillicons.dev/icons?i=python,js)](https://skillicons.dev)
 
 
-#### web source
+#### web tech's
 <br />
 
 [![My Skills](https://skillicons.dev/icons?i=html,react,css,js,nodejs,tailwind,flask,mongodb&perline=3)](https://skillicons.dev)
