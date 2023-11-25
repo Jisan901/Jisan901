@@ -2,9 +2,6 @@
 
 # Hello, Explorer 👋
 
-<br />
-
-#### 👉 warning ⚠️: ignore oldest repositories before 2023👈
 
 <br />
 </div>
