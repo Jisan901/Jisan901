@@ -1,44 +1,10 @@
-<div style="text-align:center;">
+# web projects
 
-# Hello, Explorer 👋
-
-
-<br />
-</div>
-
-## About me
-
-<br />
-
-Hi, I'm a full-stack developer, exploring web technologies is my hobby 
-<br />
-### skills
-
-<br />
-
-#### languages 
-<br />
-
-[![My Skills](https://skillicons.dev/icons?i=python,js)](https://skillicons.dev)
+| name | Link | demo|
+| ------ | ------ | ------ |
+| owl-locator | [owl-locator](https://github.com/Jisan901/Owl-locator-v1-client) | [demo](https://owl-locator.firebaseapp.com/) |
+| Node editor | [node editor](https://github.com/Jisan901/node-editor)| [demo](https://node-editor-fxql-d48ah75gs-jisan901.vercel.app/) |
+|course site| [dev-server-v1](https://github.com/Jisan901/development-server-v1)| [demo](https://risosi.onrender.com/)|
+|govt official| [govt server](https://github.com/Jisan901/Client-gov)|[demo](https://govt-service.web.app/)|
 
 
-#### web tech's
-<br />
-
-[![My Skills](https://skillicons.dev/icons?i=html,react,css,js,nodejs,tailwind,flask,mongodb&perline=3)](https://skillicons.dev)
-
-<br />
-
-## my github state
-
-<br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisan901&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisan901&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-## some useful
-
-| repo | Link |
-| ------ | ------ |
-| ReBoot | [ReBoot](github.com/Jisan901/reboot) |
