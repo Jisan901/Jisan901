@@ -14,7 +14,7 @@ javascript:(()=>{if(window.__topTouchpadLR2)return;window.__topTouchpadLR2=1;con
 | name | Link | demo|
 | ------ | ------ | ------ |
 | owl-locator | [owl-locator](https://github.com/Jisan901/Owl-locator-v1-client) | [demo](https://owl-locator.firebaseapp.com/) |
-| Node editor demo | [node editor](https://github.com/Jisan901/node-editor)| [demo](https://node-editor-fxql-d48ah75gs-jisan901.vercel.app/) |
+| Node editor three js | [node editor](https://github.com/Jisan901/node-editor)| [demo](https://jisan901.github.io/Tsl-editor/) |
 |course site| [dev-server-v1](https://github.com/Jisan901/development-server-v1)| [demo](https://risosi.onrender.com/)|
 |govt official| [govt server](https://github.com/Jisan901/Client-gov)|[demo](https://govt-service.web.app/)|
 
